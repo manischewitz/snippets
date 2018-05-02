@@ -1,0 +1,6 @@
+Moscow, Russia, 13000000
+Saint-Petersburg, Russia, 8000000
+Kiyv, Ukraine, 6000000
+Minsk, Belarussia, 7000000
+Erevan, Armenia, 3000000
+New-York, USA, 32463
